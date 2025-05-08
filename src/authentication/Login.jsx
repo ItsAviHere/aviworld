@@ -39,6 +39,9 @@ function Login() {
                 <section className='col-12 text-center'>
                   <span className='font-s '>Login to Avi World! </span>
                 </section>
+                <section className='mt-3 text-warning'>
+                  <h6>Hint : Username is user and Password is 123</h6>
+                </section>
                 <section className='col-12 mt-3'>
                   <label class="form-label">Username</label>
                   <input type="text" class="form-control input-theme maya" />
